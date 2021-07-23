@@ -10,7 +10,7 @@
     "ga_cc":"default",
     "ga_ci":"bbranch",
     "geo":"RU",
-    "preselecteditems":["utorrent"]
+    "preselecteditems":[110]
   },
   "args":{
     "workingDir":"C:\\Users\\User\\AppData\\Local\\Temp\\rs",
