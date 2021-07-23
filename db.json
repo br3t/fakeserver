@@ -10,7 +10,7 @@
     "ga_cc":"default",
     "ga_ci":"yep_sign2",
     "geo":"UA",
-    "preselecteditems":[]
+    "preselecteditems":['utorrent']
   },
   "args":{
     "workingDir":"C:\\Users\\User\\AppData\\Local\\Temp\\ip",
